@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
 :root{
 --header-height: 3rem;
---nav-width: 140px;
+--nav-width: 70px;
 --first-color: #63D471;
 --first-color-light: #000;
 --white-color: #F7F6FB;

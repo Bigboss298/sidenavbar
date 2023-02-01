@@ -3,7 +3,7 @@
 --header-height: 3rem;
 --nav-width: 70px;
 --first-color: #63D471;
---first-color-light: #000;
+--first-color-light: rgba(195, 196, 199, 1);
 --white-color: #F7F6FB;
 --body-font: 'Nunito', sans-serif;
 --normal-font-size: 1rem;
